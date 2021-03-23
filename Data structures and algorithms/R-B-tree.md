@@ -120,7 +120,7 @@ class RBTree {
 };
 ```
 #### 左旋
-<img src="../Data structures and algorithms/images-Rb/2.png" style="zoom:67%;" />
+<img src="../Data structures and algorithms/images-RB/2.png" style="zoom:67%;" />
 对x进行左旋，意味着"将x变成一个左节点"。
 
 左旋的实现代码
